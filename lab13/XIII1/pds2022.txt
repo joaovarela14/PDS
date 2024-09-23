@@ -1,0 +1,42 @@
+/home/varela/Desktop/PDS/practical-gp403/lab13/XIII1
+2024/06/04 10:51:14
+
+Question 2 (output example) ----------------------------------
+
+--- All Products :
+Car[code 990001, descr: Toyota Avalon, points =  100.0
+Car[code 990002, descr: MAZDA MX-5 Miata, points =  100.0
+Car[code 990000, descr: Ford Maverick, points =  120.0
+Van[code 980001, descr: GMC Safari, points =  130.0
+Van[code 980002, descr: Lancia Voyager, points =  120.0
+Van[code 970006, descr: Alfa Romeo AR6, points =  130.0
+Van[code 970005, descr: Jeep Grand Cherokee, points =  150.0
+Motorcycle[code 900009, descr: BMW R1150R Boxer Naked Roadster Cinza ABS, points =  195.0
+Motorcycle[code 900010, descr: Harley-Davidson Pan America 1250, points =  205.0
+Motorcycle[code 990001, descr: Ducati DesertX, points =  185.0
+
+--- Shared Products :
+Total: 4
+	Van 970005 shared with Client [Number: 187 ,name = Peter Pereira ]
+	Car 990000 shared with Client [Number: 187 ,name = Peter Pereira ]
+	Van 980002 shared with Client [Number: 957 ,name = Anne Marques ]
+	Car 990002 shared with Client [Number: 826 ,name = Mary Monteiro ]
+
+--- Shared Products :
+Total: 4
+	Van 970005 shared with Client [Number: 187 ,name = Peter Pereira ]
+	Car 990000 shared with Client [Number: 187 ,name = Peter Pereira ]
+	Van 980002 shared with Client [Number: 957 ,name = Anne Marques ]
+	Car 990002 shared with Client [Number: 826 ,name = Mary Monteiro ]
+
+--- All Products :
+Car[code 990001, descr: Toyota Avalon, points =  100.0
+Car[code 990002, descr: MAZDA MX-5 Miata, points =  100.0
+Car[code 990000, descr: Ford Maverick, points =  120.0
+Van[code 980001, descr: GMC Safari, points =  130.0
+Van[code 980002, descr: Lancia Voyager, points =  120.0
+Van[code 970006, descr: Alfa Romeo AR6, points =  130.0
+Van[code 970005, descr: Jeep Grand Cherokee, points =  150.0
+Motorcycle[code 900009, descr: BMW R1150R Boxer Naked Roadster Cinza ABS, points =  195.0
+Motorcycle[code 900010, descr: Harley-Davidson Pan America 1250, points =  205.0
+Motorcycle[code 990001, descr: Ducati DesertX, points =  185.0

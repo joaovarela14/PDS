@@ -1,0 +1,9 @@
+#!/bin/sh
+## NOTE THIS IS ONLY FOR LINUX
+
+
+javac MainVoos.java
+javac Plane.java
+javac Manager_voo.java
+javac Voo.java
+

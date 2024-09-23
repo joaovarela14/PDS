@@ -1,0 +1,12 @@
+## java.io.InputStream
+- Na classe `InputStream`, o método `read(byte[] b, int off, int len)` é um exemplo do padrão Template Method.
+Este método define um algoritmo para ler bytes de um fluxo de entrada, delegando a leitura efetiva para o método `read()` que deve ser implementado por subclasses concretas.
+
+## java.io.OutputStream
+- Na classe `OutputStream`, o método `write(byte[] b, int off, int len)` é um Template Method.
+Ele define um esqueleto de um algoritmo para escrever bytes em um fluxo de saída, deixando a implementação dos detalhes específicos para o método `write(int b)`, que deve ser implementado pelas subclasses.
+
+## java.util.AbstractList
+- Na classe `AbstractList`, o método `add(E e)` é um exemplo de Template Method.
+Ele define o esqueleto para adicionar um elemento a uma lista, chamando o método `add(int index, E element)`, que deve ser implementado pelas subclasses para especificar a lógica exata de inserção.
+

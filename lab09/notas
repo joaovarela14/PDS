@@ -1,0 +1,4 @@
+startype com size e color
+
+star com startype , x e y
+
